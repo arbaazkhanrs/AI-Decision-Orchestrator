@@ -1,0 +1,6 @@
+{
+  "name": "AI Decision Orchestrator",
+  "description": "Multi-agent system featuring Analyzer, Planner, Evaluator, and Reporter agents orchestrating complex decision pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
